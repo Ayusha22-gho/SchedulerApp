@@ -1,0 +1,15 @@
+.monthly-selection{
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+.monthly-selection button {
+    border-radius: 16px;
+   background-color: transparent;
+   border: 1px solid grey;
+}
+.monthly-selection button:hover{
+    cursor: pointer;
+    background-color: grey;
+}
